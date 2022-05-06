@@ -1,0 +1,398 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 6.5.0.0 for Windows">
+<META http-equiv="Content-Style-Type" content="text/css">
+<TITLE></TITLE>
+<STYLE type="text/css">
+<!--
+SPAN{
+  font-style : normal;
+}
+-->
+</STYLE>
+<BODY bgcolor="#fffff0" text="#000000" link="#2008a4" vlink="#a40800">
+<h1><IMG src="2fqqhebp[1].gif" border="0" width="66" height="67">Publications</h1>
+<P><IMG src="b003lis.gif" border="0" width="16" height="16"><FONT size="+2"><A href="#Lab1">Research Papers in Refereed Journals</A></FONT><BR>
+<IMG src="b003lis.gif" border="0" width="16" height="16"><FONT size="+2"><A href="#Lab2">Other Research Referred Papers</A></FONT><BR>
+<IMG src="b003lis.gif" border="0" width="16" height="16"><FONT size="+2"><A href="#Lab3">Monographs</A></FONT><BR>
+<IMG src="b003lis.gif" border="0" width="16" height="16"><FONT size="+2"><A href="#Lab4">Edited Books</A></FONT><BR>
+<IMG src="b003lis.gif" border="0" width="16" height="16"><FONT size="+2"><A href="#Lab5">Copyright Note</A></FONT></P>
+<hr>
+<H2><IMG src="b003lis.gif" border="0" width="16" height="16"><A name="Lab1">Research Papers in Refereed Journals</A></H2>
+<OL>
+  <LI>
+  <P>J. Li, Y. Pan, and Y. Xiao, &quot;Performance Study of Multiple 
+       Route Dynamic Source Routing Protocols for Mobile Ad Hoc Networks,&quot;
+    <I>Journal of Parallel and Distributed Computing (JPDC)</I>, vol. 65, issue 
+  2, pp. 
+  169-177, February 2005.</P>
+  <LI>
+  <P>C.W. Pyo, J. Li, and H. Kameda, &quot; An Efficient Caching Scheme for Personal 
+    Communication Service Networks,&quot;
+    <I>I<font face="ＭＳ Ｐゴシック">EICE</font><font face="ＭＳ Ｐゴシック"> Transactions</font></I><font face="ＭＳ Ｐゴシック"> 
+  on Communications, vol. E87-B, no. 12, December 2004, pp. 3603-3610.</font></P>
+  <LI>
+  <P>Y. Xiao, H. Li, Y. Pan, K. Wu, and J. Li, &quot;On Optimizing Energy 
+    Consumption for Mobile Handsets,&quot;
+    <I>IEEE Transactions on Vehicular Technology</I>, vol. 53, no. 65, pp. 
+  1927-1941, November 2004. </P>
+  <LI>
+  <P>S. F. El-Zoghdy, H. Kameda, and J. Li ,&quot;Numerical Studies on Paradoxes
+    in Non-Cooperative Distributed Computer Systems,&quot; <I>Game Theory and 
+  Applications</I>, vol. 9, 2003.</P>
+  <LI>
+  <P>S. F. El-Zogdhy, H. Kameda, and J. Li, &quot;Numerical Studies on a Paradox for 
+  Non-Cooperative Static Load Balancing in Distributed Computer Systems,&quot;
+    <I>Computers and Operations Research</I>, accepted for publication.</P>
+  <LI>
+  <P>H. Cai, H. Kameda, J. Li, &quot; Performance Anomaly in Clustered On-Line
+    Transaction Processing Systems,&quot; <I>Computer Communications</I>, vol. 27, issue 12, pp. 1166-1173,
+    July, 2004.</P>
+  <LI>
+  <P>Y. Luo, Y. Pan, J. Li, Y. Xiao, and X. Lin, &quot;A Simulation Study of
+    Overflow Replacement Policies for Location Management in Mobile Networks,&quot;
+    <I>International Journal of Mobile Communications</I>, vol. 2, no. 2, pp. 103-127, 2004.</P>
+  <LI>
+  <P>Y. Xiao, Y. Pan, and J. Li, “<A href="Papers/Journals/ieeetpds04-339.pdf">Design and Analysis of Location Management for 3G Cellular Networks</A>,” <I>IEEE Transactions on Parallel and Distributed Systems</I>, 
+    vol. 15, no. 4, pp. 339-349, April, 2004.</P>
+  <LI>
+  <P>Y. Jiang, J. Li, and S. Nishimura, &quot;<A href="Papers/Journals/ieeetc04-308.pdf">A General 
+    Stochastic Model for Dynamic Locking in Database Systems</A>,&quot; 
+    <I>IEEE Transactions on Computers</I>, vol. 53, no. 3, pp. 308-319, March, 2004.</P>
+  <LI>
+  <P>A. Vasilache, J. Li, and H. Kameda, &quot;Threshold-Based Load Balancing
+    for Multiple Home Agents in Mobile IP Networks,&quot; <I>Kluwer Telecommunications Systems</I> vol. 22, 
+    issue 1-4, pp. 11-31, January-April, 2003.</P>
+  <LI>
+  <P>J. Li, Y. Pan, and H. Shen, &quot;<A href="Papers/Journals/tjs03.pdf">More Efficient Topological Sort Using Reconfigurable Optical Buses</A>,'' <I>The Journal of Supercomputing, An International Journal of High-Performance
+    Computer Design, Analysis, and Use,</I> vol. 24, issue 3, pp. 251-258, March 2003.</P>
+  <LI>
+  <P>A. Kubota, J. Li, and H. Kameda, &quot;Optimal Location Management of Mobile
+    Terminals with Consideration of Moving Patterns,&quot; (in Japanese, 端末の移動パターンを考慮した位置登録最適化),
+    <I>IPSJ (Information Processing Society of Japan) Journal</I> (情報処理学会論文誌), 
+vol. 43, no. 12, pp. 3922-3930, Dec., 2002.</P>
+  <LI>
+  <P>S. F. El-Zoghdy, H. Kameda, and J. Li, &quot;A Performance Comparison of
+    Dynamic vs. Static Load Balancing Policies in a Mainframe-Personal Computer
+    Network Model,&quot; <I>INFORMATION<B> </B>: An International Journal</I>, vol. 5, no. 4, pp. 431-446, Dec., 2002.</P>
+  <LI>
+  <P>J. Li, Y, Pan, and X. Jia, ``<A href="Papers/Journals/vt02-09.pdf">Analysis of Dynamic Location Management for PCS Networks</A>,'' <i>IEEE Transactions on Vehicular Technology, </i>vol 51, issue 5, pp. 1109- 1119, Sep. 2002.</P>
+  <LI>
+  <P>Y. Pan, Y. Li, J. Li, K. Li, and S. Zheng, &quot;<A href="Papers/Journals/ieeetsmca02.pdf">Efficient Parallel Algorithm for Distance Maps of 2D Binary Images Using An Optical Bus</A>,''<I>IEEE Transsactions on Systems, Man and Cybernetics</I><I>,</I> vol. 32, no. 2, pp. 228-236, March 2002</P>
+  <LI>
+  <P>X. Jia, W. Zhao, and J. Li, ``<A href="Papers/Journals/routing02.pdf">An integrated routing and admission control mechanism for real-time multicast
+    connections in ATM networks</A>,'' <i>IEEE Transactions on Communications<B>,</B> </i>vol. 49, no. 9, pp. 1515-1519,
+September, 2001</P>
+  <LI>
+  <P>J. Wang, M. Miyazaki, and J. Li, &quot;A Technique for On-Line Data Migratio,''<i> IEICE Transactions on Information Systems, </i>vol. E84-D, no. 1, 
+pp. 113-120,January, 2000.</P>
+  <LI>
+  <P>J. Li, H. Kameda, and K. Li, &quot;<A href="Papers/Journals/ton00-03.pdf">Optimal Dynamic Mobility Management for PCS Networks</A>,&quot;<i>IEEE/ACM Transactions on Networking,</i><i> </i>vol. 8, no. 3, pp. 319-327,
+June, 2000.</P>
+  <LI>
+  <P>T. Kozawa, H. Kameda, and J. Li, &quot;Indices Showing the Degrees of Achieving
+    Various Optimization Purposes in Open BCMP Queueing Networks,'' (in Japanese,
+    &quot;開いたBCMP待ち行列網における目標異なる最適化に対する到達度指標&quot;)
+    情報処理学会論文誌：数理モデル化と応用, no. 40, SIG 9 (TOM 2), pp. 122-131,
+    (Transactions of IPSJ (Information Processing Society of Japan)), Dec.
+    1999.</P>
+  <LI>
+  <P>J. Li, &quot;Track Mobile Users in Personal Communication Service Networks,&quot;<i>INFORMATION </i>, vol. 1, no. 2, pp. 123-131, Oct. 1998.</P>
+  <LI>
+  <P>J. Wang, J. Li, and H. Kameda, &quot;Distributed Concurrency Control with
+    Local Wait-Depth Control Policy,'' <i>IEICE Transactions on Information and Systems</i><i>, </i>vol. E81-D, no. 6,
+pp. 513-520, June, 1998.</P>
+  <LI>
+  <P>J. Li and H. Kameda, &quot;<A href="Papers/Journals/ieeetrc98-03.pdf">Load Balancing Problems for Multi-class Jobs Load Balancing Problems for
+    Multi-class Jobs in Distributed/Parallel Computer Systems</A>,''<i>IEEE Transactions on Computers </i>, vol. 47, no. 3, 
+pp. 322-332, March, 1998.</P>
+  <LI>
+  <P>X. Wu, J. Li, and H. Kameda, &quot;Reliability Modeling of Disk Array Organizations
+    by Considering Uncorrectable Bit Errors,''<i>IEICE Transactions on Information Systems, </i>vol. E81-D, no. 1, pp. 73-80, Jan. 1998 .</P>
+  <LI>
+  <P>J. Li, H. Kameda, and H. Itoh, &quot;Optimal Assignment of Cells in PCS
+    Networks,'' <i>Personal Technologies </i>(Springer-Verlag), vol. 1. pp. 127-134, August, 1997 .</P>
+  <LI>
+  <P>X. Wu, J. Li, and H. Kameda, &quot;Reliability Modeling of Declustered-Parity
+    RAID Considering Uncorrectable Bit Errors,''<i>IEICE Transactions on Fundamentals of Electronics, Communications and Computer
+    Sciences</i><i>, </i>vol. E80-A, no. 8, pp. 1508-1515, August. 1997 .</P>
+  <LI>
+  <P>J. Wang, J. Li, and H. Kameda, &quot;Simulation Studies on Concurrency
+    Control in Parallel Transaction Processing Systems,'' <i>Parallel Computing </i>, vol. 23, issue 6, pp. 755-775, June, 1997 .</P>
+  <LI>
+  <P>J. Li and H. Kameda, &quot;Optimal Load Balancing in Star Network Configurations
+    with Two-Way Traffic,'' <i>Journal of Parallel and Distributed Computing, </i>vol. 23, no. 3 pp. 364-375, Dec. 1994 .</P>
+  <LI>
+  <P>J. Li and H. Kameda, &quot;A Decomposition Algorithm for Optimal Static Load Balancing in Tree Hierarchy Network Configurations,'' <i>IEEE Transactions on Parallel and Distributed Systems, </i>vol. 5, no. 5, pp. 540-548, May 1994 .</P>
+  <LI>
+  <P>J. Li and H. Kameda, &quot;Optimal Load Balancing in Tree Networks with
+    Two-Way Traffic,'' <i>Computer Networks and ISDN Systems</i>, vol. 25, no. 12, pp. 1335-1348, 1993 .</P>
+  <LI>
+  <P>J. Li, H. Kameda, and K. Shimizu, &quot;Effects of Link Communication Time
+    on Optimal Load Balancing in Tree Hierarchy Network Configurations,'' <i>IEICE Transactions on Information and Systems </i>, vol. E76-D, no. 2, pp. 199-209, 1993 .</P>
+  <LI>
+  <P>J. Li and H. Kameda, &quot;Effects of Node Processing Time on Optimal Load
+    Balancing in Tree Hierarchy Network Configurations,'' <i>Computer Communications </i>, vol. 16, no. 12, pp. 781-793, 1993 .</P>
+  <LI>
+  <P>X. Gu and J. Li, &quot;On Algorithms of Distributed Routing and the Initialization Solutions&quot;, <i>Journal of China Institute of Communication, </i>vol. 9, no.3,
+pp.15--21, 1988 (in Chinese).</P>
+</OL>
+<H2><IMG src="b003lis.gif" border="0" width="16" height="16"><A name="Lab2">Other Research Referred Papers</A></H2>
+<OL>
+  <LI>
+  <P>J. Li, A. Kubota, H. Kameda, &quot;Location Management for PCS Networks with 
+  Consideration of Mobility Patterns,&quot; <I>Proceedings of　The 2005 IEEE Conference on Computer Communications</I> <B>(IEEE INFOCOM 2005)</B>,&nbsp; 
+  10 pages in CD-ROM, March 13-17, 2005, Miami, Florida, USA.</P>
+  <LI>
+  <P>H. Kameda, J. Li, and E. Altman, &quot;Link-Traffic Loop-Free Property in Optimal 
+   Routing for Multi-Class Networks,&quot; <I>Proceedings of the 43rd IEEE Conference 
+   on Decision and Control</I> <B>(IEEE CDC 2004), </B>pp. 4217-4224,<B> </B>December 14 - 17, 2004, 
+  Atlantis, Paradise Island, Bahamas.</P>
+  <LI>
+  <P>R. Li, J. Li, and H. Kameda, &quot;Localized Public-Key Management for Mobile
+  Ad Hoc Networks,''<I>Proceedings of the IEEE 2004 Global Communications Conference</I> 
+   (<B>IEEE GlobeCom 2004</B>), 6 pages in CD-ROM,&nbsp;  November 29 - December 3, 2004, Dallas, Texas, USA..</P>
+  <LI>
+  <P>C. Pyo and J. Li, &quot;Distributed Mobility Management for Mobile IP,&quot; <i>
+  Proceedings of Global Mobile Congress</i> (<b>GMC 2004</b>), 6 pages in 
+  CD-ROM, October 11-13, 2004, Shanghai, China.</P>
+  <LI>
+  <P>J. Li, A. Kubota, &quot;Optimal Location Management for PCS Networks with
+  Hexagonal Cellular Architectures,&quot; <I>Proceedings of The joint conference </I>(<B>IEEE APCC/MDMC'04</B>)<I> of 10th Asia-Pacific Conference on Communications (APCC2004) and 5th International Symposium on Multi-Dimensional Mobile Communications </I><B>(IEEE MDMC2004) </B>, 
+  5 pages in CD-ROM, August 29-September 1, 2004, Tsinghua 
+  University, Beijing, China.</P>
+  <LI>
+  <P class="MsoPlainText">J. Li, A. Kubota, and H. Kameda, &quot;Dynamic Location Update for PCS
+    Networks with Consideration of MT Mobility Patterns,&quot; <I>Proceedings of The IEEE International Symposium on Parallel Architectures,
+    Algorithms, and Networks</I><B> (IEEE I-SPAN 2004)</B>, pp. 527-532, May 10-12, 2004, Hong Kong.</P>
+  <LI>
+  <P class="MsoPlainText">J. Li, Y. Pan, and Y. Xiao, “A Dynamic HLR Scheme for Location Management in PCS Networks,” <I>Proceedings of　The IEEE </I><I>Conference on Computer Communications</I> <B>(IEEE INFOCOM 2004)</B>, The Twenty-third Annual Joint Conference of the IEEE Computer and Communications
+    Societies, 11 pages in CD-ROM, March 7-11, 2004, Hong Kong.</P>
+  <LI>
+  <P class="MsoPlainText">Y. Xiao, Y. Pan, and J. Li, ``Movement-based Location Management for 3G
+    Cellular Networks,&quot;<I>Proceedings of the IEEE 2003 Global Communications Conference</I> 
+   (<B>IEEE GlobeCom 2003</B>), 5 pages in CD-ROM, December 1-5, 2003, San Francisco, CA, USA.</P>
+  <LI>
+  <P class="MsoPlainText">C. Pyo, J. Li, and H. Kameda, &quot;Caching Scheme on Dynamic Location Management for PCS Networks,&quot; <I>Proceedings of the IEEE Vehicular Technology Conference Fall 2003</I> (<B>IEEE VTC 2003</B>), 5 pages in CD-ROM, October 6-9, 2003, Orlando, Florida, USA.</P>
+  <LI>
+  <P class="MsoPlainText">C. Pyo, J. Li, and H. Kameda, &quot;Dynamic and Distributed Domain-based Mobility Management for Mobile IPv6,&quot; <I>Proceedings of the IEEE Vehicular Technology Conference Fall 2003</I> (<B>IEEE VTC 2003-Fall</B>), 5 pages in CD-ROM, October 6-9, 2003, Orlando, Florida, USA.</P>
+  <LI>
+  <P class="MsoPlainText">Lei Li, Yi Pan, and Jie Li, ``An Improved Movement-Based Location Management
+    Scheme for PCS Network,&quot; <I>Proceedings of the IEEE Vehicular Technology Conference Fall 2003</I> (<B>IEEE VTC2003-Fall</B>), 4 pages in CD-ROM, October 6-9, 2003, Orlando, Florida, USA.</P>
+  <LI>
+  <P class="MsoPlainText">C. Pyo, J. Li, and H. Kameda, &quot;Performance Study for Domain-Based Mobility Management with a Dynamic and Distributed Manner for Mobile IPv6,&quot; <I>Proceedings of the 11th IEEE International Conference on Networks</I> (<B>IEEE ICON 2003</B>), pp. 239-244, September 28 - October 1, 2003, Sydney, Australia.</P>
+  <LI>
+  <P class="MsoPlainText">H. Cai, H. Kameda, and J. Li, &quot;Simulation Study on Clustered OLTP Systems Using TPC-C Workload,&quot; <I>Proceedings of the 2003 International Symposium on Performance Evaluation
+    of Computer and Telecommunication Systems</I> (<B>SPECTS 2003</B>), pp. 601-606, July 20-24, 2003, Montreal, Canada.<span lang=EN-US style='font-family:Times'></span><span lang=EN-US></span></P>
+  <LI>
+  <P class="MsoPlainText"><span lang=EN-US>Ying Lou, Yi Pan, Jie Li, Yang Xiao, and Xiaola Lin &quot;A New Overflow Replacement Policy for Efficient Location Management in Mobile Networks,&quot; <I>Proceedings of the 23rd International Conference on Distributed Computing
+    Systems Workshops</I>, (<B>IEEE ICDCS 2003 Workshops</B>): <I>MWN--2003 Workshop on Mobile and Wireless Networks,</I> Providence, Rhode Island USA, May 19-22, 2003. </span></P>
+  <LI>
+  <P><span lang=EN-US>Jie Li, Hisao Kameda, Yi Pan, and Yang Xiao, &quot;Multiple Route Dynamic
+    Source Routing Protocols for Mobile Ad Hoc Networks,&quot; <I>Proceedings of Workshop on Mobile Ad Hoc Networking and Computing 2003</I> (<B>MADNET 2003</B>), pp. 22-26, Institut EUROCOM, Sophia-Antipolis, France, March 6, 2003. </span></P>
+  <LI>
+  <P><span lang=EN-US>J. Li, H. Kameda, and Y. Pan, &quot;Study on Dynamic Source Routing Protocols
+    for Mobile Ad-Hoc Networks,&quot;<span
+style="mso-spacerun: yes">&nbsp; </span><I>Proceedings of Workshop on Modeling and Optimization in Mobile, Ad Hoc
+    and Wireless Networks 2003</I> (<B>WiOpt' 03</B>), pp. 337-338, INRIA, Sophia-Antipolis, France, March 3-5, 2003.</span></P>
+  <LI>
+  <P>C. W. Pyo, J. Li, H. Kameda, X. Jia, &quot;<A href="Papers/Conf/DLCM.pdf">Dynamic Location Management with Caching in Hierarchical Databases for
+    Mobile Networks</A>,&quot;<I>Proc. of International Workshop on Databases in Networked Information Systems</I> (<B>DNIS2002</B>), Springer Lecture Note in Computer Science, vol. 2544, pp. 253-267, Aizu-Wakamatsu
+    city, Japan, December 16-18, 2002,</P>
+  <LI>
+  <P>C. Pyo, J. Li and H. Kameda, &quot;Time-Threshold Replacement for Caching
+    Scheme in Mobility Management,&quot; <I>Proc. of International Conference on Networks, Parallel and Distributed
+    Processing, and Applicaitons</I> (<B>NPDPA 2002</B>), pp. 87-92, Tsukuba, Japan, October 1-4, 2002.</P>
+  <LI>
+  <P>L. Tan, Q. Liu, L. Chen and J. Li, &quot;A Feedback Congestion Control Method to ABR Service in High Speed ATM Networks,&quot; <I>Proc. of International Conference on Networks, Parallel and Distributed
+    Processing, and Applicaitons </I>(<B>NPDPA 2002</B>), pp. 132-137, Tsukuba, Japan, October 1-4, 2002.</P>
+  <LI>
+  <P>S. El-Zoghdy, H. Kameda and J. Li, &quot;A Comparative Study of Static and Dynamic Individually Optimal Load Balancing Policies,&quot; <I>Proc. of International Conference on Networks, Parallel and Distributed
+    Processing, and Applicaitons</I> (<B>NPDPA 2002</B>), pp. 200-205, Tsukuba, Japan, October 1-4, 2002.</P>
+  <LI>
+  <P>P. Liu, S. Jajodia, P. Ammann and J. Li, &quot;Can-Follow Concurrency Control,&quot; <I>Proc. of International Conference on Networks, Parallel and Distributed Processing, and Applicaitons</I> (<B>NPDPA 2002</B>), pp. 223-228, October 1-4, 2002, Tsukuba, Japan.</P>
+  <LI>
+  <P>A. Vasilache, J. Li and H. Kameda, &quot;<A href="Papers/Conf/MobThres.pdf">Threshold Load Balancing for Multiple Home Agents in Mobile IP Networks</A>,&quot; <I>Proc. of&nbsp; 3rd Intl. Conf on Parallel and Distributed Computing, Applications
+    and Technologies</I> <B>(PDCAT2002)</B>, pp. 384-389, Kanazawa, Japan, Sept. 3-6, 2002.</P>
+  <LI>
+  <P>J. Li, Y. Pan and X. Jia, &quot;Dynamic Location Management and Performance for PCS networks,'' <I>Proc. of the 6th International Conference for Young Computer Scientists</I> <B>(ICYCS'2001)</B>, Hangzhou, China, pp. 125-129, October 23-25, 2001.</P>
+  <LI>
+  <P>J. Li, Y. Pan and H. Shen, ``Efficient Topological Sort Using Reconfigurable
+    Optical Buses,'' <i>Proc. of the 2nd International Conference on Parallel and Distributed Computing
+    Application, and Technologies </i><B>(PDCAT2001)</B><i>,</i> pp. 1-7, Taipei, Taiwan, July 9-11, 2001.</P>
+  <LI>
+  <P>Y. Pan, J. Li, and R. Vemuri,
+``Continuous Wavelet Transform
+On Reconfigurable Meshes,''
+<i>Proc. Workshop on Parallel and Distributed Computing in Image Processing,
+Video Processing, and Multimedia,</i> Lecture Notes in Computer Science (Springer Verlag), April 23, 2001.</P>
+  <LI>
+  <P>J. Li and Y. Pan, ``Dynamic Database Management for PCS Networks,'' <i>Proc. IEEE 21st Intl Conf. on Distributed Computing Systems </i><B>(IEEE ICDCS-21)</B>, Phoenix, Arizona, USA, pp. 683-686, April 16-19, 2001.</P>
+  <LI>
+  <P>J. Li, Y. Pan, and X. Jia, ``Analysis of Dynamic Movement-Based Location
+    Update Scheme for PCS Networks,''<i>Proc. of ACM Symp on Applied Computing</i> <B>(ACM SAC'2001)</B>, Las Vegas, USA, pp. 368-372, March 11-14, 2001.</P>
+  <LI>
+  <P>H. Kameda, E. Altman, O. Pourtallier, J. Li, and Y. Hosokawa, ``Paradoxes
+    in Performance Optimization of Distributed Systems,'' <i>Prof. of Intl. Conf. on Advances 
+in Infrastructure for E-Business, Science, and Education on the 
+Internet</i> <B>(SSGRR 2000)</B>, L'Aquila, Italy, July 31- Aug. 6, 2000.</P>
+  <LI>
+  <P>H. Kameda, E. Fathy, I. Ryu, H. Kameda, and J. Li, ``A Performance Comparison of Dynamic vs. Static Load Balancing Policies in a Mainframe - Personal Computer Network Model,'' <i>Proc. 39th IEEE Conference on Decision and Control</i> <B>(IEEE CDC'2000)</B>, Sydney, Australia, pp. 1415-1420, December 12-15, 2000.</P>
+  <LI>
+  <P>A. Vasilache, J. Li, and H. Kameda, ``Simulation Study on Load Balanced
+    Multiple Home Agents for Mobile IP Networks,'' <i>Proc. of International Workshop on Databases in Networked
+Information Systems</i> <B>(DNIS 2000)</B>, Lecture Notes in Computer Science (Springer Verlag), vol. 1996, pp. 228-245, Dec. 2000.</P>
+  <LI>
+  <P>Y. Shirota, T. Hashimoto, A. Iizawa, and J. Li, ``Design of Satellite-Based
+    Multimedia Content Distribution Systems and Metrics for Systems Evaluation,''
+    <i>Proc. of 2000 International Conference on
+Information Society in the 21st Century </i><B>(IS2000)</B>, Aizu-Wakama City, Japan, pp. 66-73, November 5-8, 2000.</P>
+  <LI>
+  <P>J. Yang, J. Li and H. Kameda, ``Simulaiton Study of Control Methods for Parallel Online Transaction Processing Systems,'' <i>Proc. of nternational Conference on
+Performance Evaluation: Theory, Techniques and Applications</i> <B>(PerETTA 2000)</B>, AizuWakamatsu City, Japan, pp. 24 - 31, Sept. 21-22, 2000.</P>
+  <LI>
+  <P>J. Wang, M. Miyazaki, and J. Li, ``Replacing a Database Server on Line,''
+    <i>Proc. of  International Conference Parallel and Distributed Computing and
+    Systems 2000</i> <B>(PDCS 2000)</B>, Las Vegas, USA, pp. 530-535, November 6-9, 2000.</P>
+  <LI>
+  <P>J. Wang, M. Miyazaki, and J. Li, ``A Technique For Upgrading Database Machines
+    On-Line,'' <i>Proc. of First Biennial International Conference on
+Advances in Information Systems</i> <B>(ADVIS'2000)</B>, Lecture Notes in Computer Science (Springer Verlag), vol. 1909, pp. 82-91, Izmir, Turkey, Oct. 2000.</P>
+  <LI>
+  <P>J. Wang, M. Miyazaki, H. Kameda, and J. Li, &quot;Improving performance
+    of parallel transaction processing systems by balancing data load on line,''
+    <i>Proc. IEEE 7th International Conference on Parallel and Distributed Systems </i><B>(IEEE ICPADS-2000)</B>, Iwate, Japan, pp. 331-338, July 4 - 7, 2000.</P>
+  <LI>
+  <P>Y. Pan, Y. Li, J. Li, K. Li, and S. Zheng, &quot;Computing distance maps
+    efficiently using an optical bus,''<i>Proc. of Workshop on Parallel and Distributed Computing
+in Image Processing, Video Processing, and Multimedia </i><B>(PDIVM 2000</B>, held in conjunction with IPDPS'2000), Cancun, Lecture Notes in Computer Science (Springer Verlag), vol. 1800, pp. 178-185, May 5, 2000.</P>
+  <LI>
+  <P>J. Li, J. Wang, and H. Kameda, &quot;Performance studies of shared-nothing
+    parallel transaction processing systems,'' <i>Proc. of Fifth International 
+Conference on Parallel Computing Technologies </i><B>(PaCT-99)</B>, St. Petersburg, Lecture Notes in Computer Science (Springer Verlag), vol. 1662, pp. 235-247, September, 1999.</P>
+  <LI>
+  <P>J. Li, and H. Kameda, &quot;Individual Equilibrium and Learning in a Distributed
+    Computer System,'' <i>Proc. of
+IFORS'99, 15th World Conference on Operational Research </i>,
+Beijing, China, invited paper, August, 1999.</P>
+  <LI>
+  <P>J. Li, H. Kameda, and K. Li, &quot;Optimal dynamic location update for
+    PCS networks,'' <i>Proc. of 1999 IEEE International
+Conference on Distributed Computing Systems </i><B>(IEEE ICDCS'99)</B>, pp. 134-141, Austin, Texas USA, May 31 - June 5, 1999.</P>
+  <LI>
+  <P>J. Wang, J. Li, and H. Kameda, &quot;Performance Study of Shared-Nothing
+    Parallel Transaction Processing Systems,'' <i>Proc. of IFIP TC6/WG6.3 &amp; WG7.3 International Conference on Performance
+    and Management of Complex Communication Communication Networks </i><B>(PMCCN'97)</B>, pp. 161-180, Tsukuba, Japan, November 17-21, 1997.</P>
+  <LI>
+  <P>X. Wu, J. Li, and H. Kameda, &quot;Reliability Analysis of Disk Array Organizations
+    by Considering Uncorrectable Bit Errors,'' <i>Proc. of 16th IEEE Symposium on Reliable Distributed Systems </i><B><i>(IEEE SRDS'97)</i></B>, pp. 2-9, Duke University, Durham, North Carolina, USA, October 22-24, 1997.</P>
+  <LI>
+  <P>J. Wang, J. Li, and H. Kameda, &quot;Performance of Dynamic Locking with
+    No-waiting Policy in Parallel Transaction Processing Systems,'' <i>Proc. of 2nd International Conference on Parallel Processing and Applied
+    Mathematics </i><B>(PPAM'97)</B>, pp. 176-184, Zakopane, September 2-5, 1997.</P>
+  <LI>
+  <P>H. Kameda, T. Kozawa, and J. Li, &quot;Anomalous Relations among Various
+    Performance Objectives in Distributed Computer System,'' <i>Proc. of 1st World Congress on Systems Simulation </i><B>(WCSS'97)</B>, pp. 459-465, Singapore, September 1-3, 1997.</P>
+  <LI>
+  <P>J. Wang, J. Li, and H. Kameda, &quot;Scheduling Algorithms for Parallel
+    Transaction Processing Systems,'' <i>Proc. of International Conference on
+Parallel Computing Technologies </i><B>(PaCT-97)</B>, Yaroslavl, Lecture Notes in Computer Science (Springer Verlag), vol. 1277, pp. 283-297, September 8-12, 1997.</P>
+  <LI>
+  <P>J. Wang, J. Li, and H. Kameda, &quot;High Performance Parallel Transaction
+    Processing,'' <i>Proc. of International Conference on Parallel and Distributed Computing
+    and Networks </i><B>(PDCN'97)</B>, pp.27-30, Singapore, August 11-14, 1997</P>
+  <LI>
+  <P>J. Li, J. Wang, H. Kameda and K. Li, &quot;An Effective Scheduling Algorithm
+    for Parallel Transaction Processing Systems,'' <i>Proc. IEEE 1997 National Aerospace and Electronic Conference </i><B>(IEEE NAECON '97),</B><i> </i>pp. 181-188, 
+Dayton, Ohio, USA, July 14-18, 1997.</P>
+  <LI>
+  <P>J. Wang, J. Li, and H. Kameda, &quot;Parallel Transaction Processing Based
+    on Wait-Depth Priority over an Interconnection Networking Environment,''
+
+    <i>Proc. of the 13th International Conference on Advanced Science and Technology
+    (ICAST 97) in conjunction with the 2nd International Conference on Multimedia
+    Information Systems </i><B>(ICMIS 97)</B><i>, </i>pp. 249-255,
+Motorola University, Schaumburg, Illinois, USA, April 3-5, 1997.</P>
+  <LI>
+  <P>K. Li, and J. Li, &quot;On Stochastic Load Balancing in Heterogeneous Distributed
+    Systems,'' <i>Proc. of 3rd International Conference on Computer Science
+and Informatics, </i>pp. 231-234, Research Triangle Park, North Carolina, USA, March 1-5, 1997
+    .</P>
+  <LI>
+  <P>J. Li, H. Kameda, and H. Itoh, &quot;Balanced Assignment of Cells in PCS
+    Networks,'' <i>Proc. of 12th ACM Symposium on Applied Computing </i><B>(ACM SAC'97)</B><i>, </i>pp.297-301, San Jose, California, USA, Feb. 1997 .</P>
+  <LI>
+  <P>X. Wu, J. Li, and H. Kameda,
+"Reliability Analysis of Declustered-parity RAID Focusing on 
+Uncorrectable Bit Errors",
+<i>Proc. of 1996 International Computer Symposium </i><B>(ICS'96),</B><i> </i>pp.1-6, Taiwan, Dec. 1996 .</P>
+  <LI>
+  <P>J. Li, and H. Kameda, &quot;Modeling Window Flow Control Mechanism,'' <i>Proc. of the 8th International Conference on Parallel and Distributed Computing and Systems </i><B>(PDCS'96)</B><i> </i>, pp.117-120, Chicago, USA, Oct. 16-19, 1996 .</P>
+  <LI>
+  <P>J. Li, and H. Kameda, &quot;An Efficient Algorithm for Load Balancing in
+    Generally Configured Distributed Systems,'' <i>Proc. of 1994 International Computer Symposium </i><B>(ICS'94) </B>pp. 1184-1189, Taiwan, Dec. 1994 .</P>
+  <LI>
+  <P>J. Li, and H. Kameda, &quot;Effects of Link Communication Time on Optimal
+    Static Load Balancing in Tree Hierarchy Network Configurations,'' <i>Proc. of the 11th International Conference on Computer Communication} </i><B>(ICCC'92)</B><i> </i>, pp.309-314, Genova, Italy, Sept. 1992 .</P>
+  <LI>
+  <P>J. Li, and H. Kameda, &quot;Optimal Static Load Balancing in Tree Hierarchy
+    Network Configurations,'' <i>Proc. of the 10th International Conference, Applied Informatics, </i>Acta Press, pp.13-16, Innsbruck, Austria, Feb. 1992 .</P>
+  <LI>
+  <P>J. Wang, J. Li, and H. Kameda, &quot;Performance Study of Shared-Nothing
+    Parallel Transaction Processing Systems,'' <i>Performance and Management of Complex Communication 
+Networks, H. Hasegawa, H. Takagi, and Y. Takahashi (Editors) </i>, Chapman &amp; Hall, Inc., pp. 154-172. 1998.</P>
+  <LI>
+  <P>J. Li, and Z. Zhao, &quot;The Optimum Design of Cabinet Layout System in
+    Subscriber Loop of the Local Telephone Networks,'' <i>Proc. of 1987 International
+Conference on Communication Technology </i><B>(ICCT'87)</B>, pp.729--732, Nanjing, China, Nov. 1987.</P>
+  <LI>
+  <P>J. Li, &quot;Location Management for Mobile Communication Networks&quot;, <i>Design 
+  and Analysis of Wireless Networks</i>, Nova Science Publishers, Hardcover, 
+  2005 (A book chapter).<BR>
+  </P>
+</OL>
+<H2><IMG src="b003lis.gif" border="0" width="16" height="16"><A name="Lab3">Monographs</A></H2>
+<UL>
+  <LI>
+  <P>H. Kameda, J. Li, C. Kim, and Y. Zhang, <br>
+  <i><A href="Books/loadB97.jpg">Optimal Load Balancing in Distributed Computer Systems</A>, </i><br>
+  Springer-Verlag, London, Telecommunications Networks and Computer Systems (TNCS) Series, 251 pages, 1997.</P>
+  <LI>
+  <P>H. Kameda, K. Kino and J. Li <br>
+  性能評価の基礎と応用 (System Performance Evaluation, Theory and Applications) <BR>
+  共立出版　(Kyoritu Press) in Japanese, 253 pages, 1998<BR>
+  </P>
+</UL>
+  <H2><B><IMG src="b003lis.gif" border="0" width="16" height="16"><A name="Lab4">Edited Books</A></B></H2>
+  <UL>
+    <LI>
+  <P>Y. Xiao, J. Li, and Y. Pan, Eds, <I>Security and Routing in Wireless Networks</I>, Nova Science Publishers, Hardbound, 2004. </P>
+<LI>
+  <P>J. Li, K. Kato, and H. Kameda, Eds., <I>Proc. of International Conference on Networks, Parallel and Distributed
+    Processing, and Applicaitons </I>(<B>NPDPA 2002</B>), 512 pages, Tsukuba, Japan, October 1-4, 2002.</P>
+    <LI>
+    <P>Q. Jin, J. Li, N. Zhang, J. Cheng, C. Yu, and S. Noguchi, Eds., <I>Enabling Society with Information Technology</I>, Springer-Verlag, 381 pages, 2002.</P>
+    <LI>
+    <P>Q. Jin, J. Li, N. Zhang, J. Cheng, C. Yu, and S. Noguchi, Eds., <I>Proc. 2000 International Conference on Information Society in the 21st
+    Century</I> (IS2000), 708 pages, Aizu-Wakamatsu City, Japan, November 5-8, 2000.</P>
+  </UL>
+    <P><B><IMG src="b003lis.gif" border="0" width="16" height="16"><font size="5">Book 
+    Chapter</font></B></P>
+  <ul>
+    <li>J. Li, &quot;Location Management for Mobile Communication Networks&quot;, <i>Design 
+  and Analysis of Wireless Networks</i>, 17 pages, Nova Science Publishers, Hardcover, 
+  2005, to appear (A book chapter).</li>
+    <li>李頡, &quot;Load Balancing Problems for Multiclass Jobs in Distributed/Parallel 
+    Computer Systems （分散/並列コンピュータシステムにおけるマルチクラスジョブの負荷分散問題）, OR事典2000, 
+    事例編・情報通信ネットワーク, 13 pages in CD-ROM, 日本オペレーションズ・リサーチ学会, 2000.</li>
+</ul>
+<H2><U><B><IMG src="b003lis.gif" border="0" width="16" height="16"><A name="Lab5">Copyrigth Note</A><BR>
+</B></U></H2>
+<UL>
+  <LI>
+  <P>Many papers downloadable on this page are presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder<U><B>.</B></U><BR>
+  </P>
+</UL>
+<P><IMG src="st10_l2.gif" border="0" width="512" height="20"></P>
+</BODY>
